@@ -1,4 +1,4 @@
-# 📂 Day 03 - Binary Search Trees & Self-Balancing AVL Trees
+هو# 📂 Day 03 - Binary Search Trees & Self-Balancing AVL Trees
 
 ### Objectives
 - Implement **Binary Search Trees (BST)** for hierarchical data management  
@@ -37,7 +37,7 @@
 
 ### 🎥 Visual Learning: AVL Rotations Explained
 - Created a **Motion Graphics** video to illustrate complex pointer swapping during rotations for O(log n) performance  
-- 👉 **[Watch my AVL Rotations Explainer on LinkedIn](LINK)**  
+- 👉 **[Watch my AVL Rotations Explainer on LinkedIn](https://www.linkedin.com/posts/mohamed-awadallah-ma_cpp-oop-datastructures-activity-7410378875760799744-v1P3?utm_source=share&utm_medium=member_android&rcm=ACoAAFFQoQABK8LhNrRjbeIbXa5inbvM8EZzkt4)**  
 
 ---
 
