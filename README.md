@@ -52,7 +52,7 @@ Beyond the basic BST requirements, I implemented a full **AVL Tree** to guarante
 
 * **Mechanism:** Handles 4 types of rotations (LL, RR, LR, RL) triggered by Balance Factor changes.
 * **Visual Aid:** I created a custom Motion Graphics video to explain these rotations visually.
-* 🎥 **[Watch the AVL Explainer Video on LinkedIn](Link)**
+* 🎥 **[Watch the AVL Explainer Video on LinkedIn](https://www.linkedin.com/posts/mohamed-awadallah-ma_cpp-oop-datastructures-activity-7410378875760799744-v1P3?utm_source=share&utm_medium=member_android&rcm=ACoAAFFQoQABK8LhNrRjbeIbXa5inbvM8EZzkt4)**
 
 ### 2. Dynamic Hash Table with Rehashing
 A generic `HashTable` implementation using **Separate Chaining** to handle collisions effectively.
